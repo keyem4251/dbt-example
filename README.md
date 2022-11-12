@@ -8,3 +8,13 @@ $ brew install dbt-bigquery
 ```
 
 [getting started](https://docs.getdbt.com/docs/get-started/getting-started-dbt-core)
+```
+$ mkdir .dbt
+$ touch profiles.yml
+```
+
+Create Service Account and create json key.  
+And set credentials.  
+```
+$ export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"
+```
