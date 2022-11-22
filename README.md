@@ -19,4 +19,4 @@ And set credentials.
 $ export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"
 ```
 
-dbt readme is in jafle-shop.
+dbt readme is in jaffle_shop.
