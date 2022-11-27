@@ -1,5 +1,6 @@
 # dbt-example
 
+### dbt core 
 [install dbt](https://docs.getdbt.com/docs/get-started/homebrew-install)
 ```
 $ brew update
@@ -20,3 +21,6 @@ $ export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"
 ```
 
 dbt readme is in jaffle_shop.
+
+### dbt cloud 
+set up link [here](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud). 
