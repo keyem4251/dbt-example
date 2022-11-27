@@ -24,3 +24,5 @@ dbt readme is in jaffle_shop.
 
 ### dbt cloud 
 set up link [here](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud). 
+
+[dbt cloud link](https://cloud.getdbt.com/next/)
