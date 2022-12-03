@@ -26,3 +26,5 @@ dbt readme is in jaffle_shop.
 [set up](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud). 
 
 [dbt cloud console](https://cloud.getdbt.com/next/)
+
+[schedule job](https://docs.getdbt.com/docs/get-started/getting-started/building-your-first-project/schedule-a-job)
