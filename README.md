@@ -23,7 +23,7 @@ $ export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"
 dbt readme is in jaffle_shop.
 
 ### dbt cloud 
-[set up](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud). 
+[set up](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud)
 
 [dbt cloud console](https://cloud.getdbt.com/next/)
 
